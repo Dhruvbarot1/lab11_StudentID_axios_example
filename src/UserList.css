@@ -1,0 +1,19 @@
+.card {
+    border-radius: 10px;
+    background-color: #17a2b8; /* Match the teal theme */
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card img {
+    border-radius: 10px 0 0 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
